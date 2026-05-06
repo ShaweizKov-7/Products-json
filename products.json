@@ -1,0 +1,262 @@
+[
+    {
+        "id": "1",
+        "name": "PPSh-41 Sub-Machine Gun - 7 SMGs",
+        "image": "images/products/PPSh-41.jpg",
+        "priceCents": 100070,
+        "rating": {
+            "stars": 5,
+            "count": 970
+        }
+    },
+    {
+        "id": "2",
+        "name": "STG-44 Assualt Rifles - 9 Rifles",
+        "image": "images/products/STG-44.jpg",
+        "priceCents": 270090,
+        "rating": {
+            "stars": 5,
+            "count": 1270
+        }
+    },
+    {
+        "id": "3",
+        "name": "Beretta M38 Simplified - 3 SMGs",
+        "image": "images/products/Beretta-M38-simplified.jpg",
+        "priceCents": 90070,
+        "rating": {
+            "stars": 4.5,
+            "count": 1070
+        }
+    },
+    {
+        "id": "4",
+        "name": "Beretta M38A - 2 SMGs",
+        "image": "images/products/Beretta-M38A.jpg",
+        "priceCents": 250070,
+        "rating": {
+            "stars": 5,
+            "count": 970
+        }
+    },
+    {
+        "id": "5",
+        "name": "M1921 - Thompson Box Magazine - 9 SMGs",
+        "image": "images/products/M1921-Thompson-box.jpg",
+        "priceCents": 200097,
+        "rating": {
+            "stars": 4.5,
+            "count": 2970
+        }
+    },
+    {
+        "id": "6",
+        "name": "M1921 - Thompson Drum Magazine - 5 SMGs",
+        "image": "images/products/M1921-Thompson-drum.jpg",
+        "priceCents": 30000,
+        "rating": {
+            "stars": 5,
+            "count": 4570
+        }
+    },
+    {
+        "id": "7",
+        "name": "M1928 - Thompson box - 10 SMGs",
+        "image": "images/products/M1928-Thompson-box.jpg",
+        "priceCents": 100070,
+        "rating": {
+            "stars": 4,
+            "count": 1200
+        }
+    },
+    {
+        "id": "8",
+        "name": "M1928 - Thompson drum - 10 SMGs",
+        "image": "images/products/M1928-Thompson-drum.jpg",
+        "priceCents": 100070,
+        "rating": {
+            "stars": 4.5,
+            "count": 1400
+        }
+    },
+    {
+        "id": "9",
+        "name": "MG-34 Heavy Machine Gun - 15 MGs",
+        "image": "images/products/MG-34.jpg",
+        "priceCents": 40000,
+        "rating": {
+            "stars": 5,
+            "count": 5570
+        }
+    },
+    {
+        "id": "10",
+        "name": "Kiraly-39M - 2 SMGs",
+        "image": "images/products/Kiraly-39M.jpg",
+        "priceCents": 22000,
+        "rating": {
+            "stars": 4.5,
+            "count": 1570
+        }
+    },
+    {
+        "id": "11",
+        "name": "Fedorov Avtomat Full Auto Rifle - 17 Rifles",
+        "image": "images/products/Fedorov-Avtomat.jpg",
+        "priceCents": 37000,
+        "rating": {
+            "stars": 5,
+            "count": 4700
+        }
+    },
+    {
+        "id": "12",
+        "name": "Gewehr-43 Semi Auto Rifle - 11 Rifles",
+        "image": "images/products/Gewehr-43.jpg",
+        "priceCents": 100070,
+        "rating": {
+            "stars": 4.5,
+            "count": 2770
+        }
+    },
+    {
+        "id": "13",
+        "name": "M3 - Grease Gun - 25 SMGs",
+        "image": "images/products/M3-Grease-Gun.jpg",
+        "priceCents": 9000,
+        "rating": {
+            "stars": 2,
+            "count": 870
+        }
+    },
+    {
+        "id": "14",
+        "name": "PPS-43 - 14 SMGs",
+        "image": "images/products/PPS-43.jpg",
+        "priceCents": 17000,
+        "rating": {
+            "stars": 5,
+            "count": 2700
+        }
+    },
+    {
+        "id": "15",
+        "name": "Sten-MKII - 20 SMGs",
+        "image": "images/products/Sten-MKII.jpg",
+        "priceCents": 12000,
+        "rating": {
+            "stars": 3,
+            "count": 1000
+        }
+    },
+    {
+        "id": "16",
+        "name": "SVT-38 Semi Auto Rifle - 7 Rifles",
+        "image": "images/products/SVT-38.jpg",
+        "priceCents": 42000,
+        "rating": {
+            "stars": 5,
+            "count": 4500
+        }
+    },
+    {
+        "id": "17",
+        "name": "SVT-40 Semi Auto Rifle - 9 Rifles",
+        "image": "images/products/SVT-40.jpg",
+        "priceCents": 40000,
+        "rating": {
+            "stars": 5,
+            "count": 5500
+        }
+    },
+    {
+        "id": "18",
+        "name": "MG-13 Light Machine Gun - 9 MGs",
+        "image": "images/products/MG-13.jpg",
+        "priceCents": 50000,
+        "rating": {
+            "stars": 5,
+            "count": 6500
+        }
+    },
+    {
+        "id": "19",
+        "name": "MG-15 Light Machine Gun - 7 MGs",
+        "image": "images/products/MG-15.jpg",
+        "priceCents": 70000,
+        "rating": {
+            "stars": 5,
+            "count": 7500
+        }
+    },
+    {
+        "id": "20",
+        "name": "MG-42 Heavy Machine Gun - 14 MGs",
+        "image": "images/products/MG-42.jpg",
+        "priceCents": 60000,
+        "rating": {
+            "stars": 5,
+            "count": 9500
+        }
+    },
+    {
+        "id": "21",
+        "name": "MP-40 Sub Machine Gun - 15 SMGs",
+        "image": "images/products/MP-40.jpg",
+        "priceCents": 30000,
+        "rating": {
+            "stars": 5,
+            "count": 7500
+        }
+    },
+    {
+        "id": "22",
+        "name": "Colt-M1911 - 18 Pistols",
+        "image": "images/products/Colt-M1911.jpg",
+        "priceCents": 10000,
+        "rating": {
+            "stars": 5,
+            "count": 8500
+        }
+    },
+    {
+        "id": "23",
+        "name": "S&W Model 10 - 8 Revolvers",
+        "image": "images/products/S&W-model-10.jpg",
+        "priceCents": 12000,
+        "rating": {
+            "stars": 4.5,
+            "count": 8000
+        }
+    },
+    {
+        "id": "24",
+        "name": "Browning-M1919-A4 50 Cal. Heavy Machine Gun - 21 MGs",
+        "image": "images/products/Browning-M1919-A4.jpg",
+        "priceCents": 82000,
+        "rating": {
+            "stars": 5,
+            "count": 9000
+        }
+    },
+    {
+        "id": "25",
+        "name": "Winchester Model-1866 Lever Action Rifle - 6 Rifles",
+        "image": "images/products/Winchester-model-1866.jpg",
+        "priceCents": 9500,
+        "rating": {
+            "stars": 4,
+            "count": 7000
+        }
+    },
+    {
+        "id": "26",
+        "name": "Winchester Model-1897 Trench Gun - 7 Shot-Guns",
+        "image": "images/products/Winchester-model-1897.jpg",
+        "priceCents": 5500,
+        "rating": {
+            "stars": 5,
+            "count": 9000
+        }
+    }
+]
