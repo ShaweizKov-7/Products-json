@@ -73,7 +73,7 @@
         "id": "8",
         "name": "M1928 - Thompson drum - 10 SMGs",
         "image": "images/products/M1928-Thompson-drum.jpg",
-        "priceCents": 100070,
+        "priceCents": 150070,
         "rating": {
             "stars": 4.5,
             "count": 1400
@@ -113,7 +113,7 @@
         "id": "12",
         "name": "Gewehr-43 Semi Auto Rifle - 11 Rifles",
         "image": "images/products/Gewehr-43.jpg",
-        "priceCents": 100070,
+        "priceCents": 10000,
         "rating": {
             "stars": 4.5,
             "count": 2770
@@ -213,7 +213,7 @@
         "id": "22",
         "name": "Colt-M1911 - 18 Pistols",
         "image": "images/products/Colt-M1911.jpg",
-        "priceCents": 10000,
+        "priceCents": 7000,
         "rating": {
             "stars": 5,
             "count": 8500
